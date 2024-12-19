@@ -1,0 +1,18 @@
+*{
+  background-color: #61034e;
+  color: white; 
+  font-family: 'Times New Roman';  
+}
+.app{
+  padding: 20px;
+  border: 3px solid white;
+  border-radius: 10px;
+  margin: 230px;
+  cursor: pointer;
+}
+.header{
+  font-weight: 600;
+}
+.time{
+  font-size: 20px;
+}
